@@ -16,7 +16,7 @@ $contacts = $db->all();
 
 <html>
 <head>
-    <title>PHP-Apache-Mysql-Sample 示例 - DaoCloud v2.0</title>
+    <title>PHP-Apache-Mysql-Sample 示例 - DaoCloud v3.0</title>
 
     <link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 
